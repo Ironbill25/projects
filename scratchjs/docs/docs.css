@@ -3,6 +3,7 @@ main {
     width: 100vw;
     max-width: 100%;
     padding: 20px;
+    text-align: left;
 }
 
 aside {
@@ -12,11 +13,13 @@ aside {
     border-right: 1px solid #ccc;
     margin-inline: 20px;
     height: fit-content;
+    text-align: left;
 }
 
 .content {
     margin-left: 240px;
     padding: 20px;
+    text-align: left;
 }
 
 h2 {
