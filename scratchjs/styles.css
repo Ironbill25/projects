@@ -151,3 +151,10 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
 }
+
+.exampleimage {
+    border:1px solid black;
+    width:fit-content;
+    padding:4px;
+    text-align:center;
+}
